@@ -2,9 +2,10 @@
 ## Information:
 This repository contains java source code to approximately solve the [Steiner Tree problem](https://en.wikipedia.org/wiki/Steiner_tree_problem). 
 This was a project for the course Allocations and Algorithms at Maastricht University.
-Co-Author: Max van den Broek.
 All instances were obtained from [Pace 2018](https://github.com/PACE-challenge/SteinerTree-PACE-2018-instances).
 The primary algorithm used was introduced by [Kurt Mehlhorn](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/SteinerTrees.pdf).
+
+Co-Author: Max van den Broek.
 
 ## Table of Contents:
 1. [Instances](./Instances): Contains odd-numbered PACE 2018 Instances for the Steiner Tree Problem. (all files are .gr)
