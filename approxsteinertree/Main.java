@@ -15,7 +15,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		/**Set Instance in following piece of code to get solution for the instance**/
-		/**Assumes working directory is G1T5Project**/
+		/**Assumes working directory is steiner_tree_approx**/
 
 		String instance = "001" ; //Fill instance number here
 		String filepath1 = "./instances/instance" + instance + ".gr";
@@ -28,7 +28,7 @@ public class Main {
 
 
 		/**Uncomment underlying code & Comment code above in order to get solutions for each instance of problems given**/
-		/**Assumes working directory is the folder G1T5project**/
+		/**Assumes working directory is the folder steiner_tree_approx**/
 
 
 	/*	String filepath1 = "./Instances/instance";
