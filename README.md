@@ -11,10 +11,10 @@ Co-Author: Max van den Broek.
 1. [Instances](./Instances): Contains odd-numbered PACE 2018 Instances for the Steiner Tree Problem. (all files are .gr)
 2. [solvedInstances](./solvedInstances): Contains appoximation solutions to the problems in Instances. (all files are .sol)
 3. [approxsteinerTree](./approxsteinertree): Contains source files for various java classes.
-    -Node.java: A class which represents a node on an undirected graph.
-    -Edge.java: A class to denote the edge of a graph
-    -Graph.java: A class to make undirected graph objects containing edges and nodes.
-    -MehlhornAlgorithm.java: A class to perform the Mehlhorn algorithm on an arbitrary graph instance.
-    -Main.java: Contains the execution code. Has code for both one particular instance and all instances.
+    - Node.java: A class which represents a node on an undirected graph.
+    - Edge.java: A class to denote the edge of a graph
+    - Graph.java: A class to make undirected graph objects containing edges and nodes.
+    - MehlhornAlgorithm.java: A class to perform the Mehlhorn algorithm on an arbitrary graph instance.
+    - Main.java: Contains the execution code. Has code for both one particular instance and all instances.
 4. [Report](./Report.pdf): Report which details implementation, approximation guarantee, runtime, etc. 
     
