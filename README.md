@@ -9,7 +9,7 @@ The primary algorithm used was introduced by [Kurt Mehlhorn](https://people.mpi-
 ## Table of Contents:
 1. [Instances](./Instances): Contains odd-numbered PACE 2018 Instances for the Steiner Tree Problem. (all files are .gr)
 2. [solvedInstances](./solvedInstances): Contains appoximation solutions to the problems in Instances. (all files are .sol)
-3. [approxSteinerTree](./approxsteinertree): Contains source files for various java classes.
+3. [approxsteinerTree](./approxsteinertree): Contains source files for various java classes.
     -Node.java: A class which represents a node on an undirected graph.
     -Edge.java: A class to denote the edge of a graph
     -Graph.java: A class to make undirected graph objects containing edges and nodes.
