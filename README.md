@@ -16,5 +16,5 @@ Co-Author: Max van den Broek.
     - Graph.java: A class to make undirected graph objects containing edges and nodes.
     - MehlhornAlgorithm.java: A class to perform the Mehlhorn algorithm on an arbitrary graph instance.
     - Main.java: Contains the execution code. Has code for both one particular instance and all instances.
-4. [Report](https://github.com/shah-meet0/steiner_tree_approx/blob/3f3cb255c3ccd2393a50b434029d36b398132eb9/Report.pdf): Report which details implementation, approximation guarantee, runtime, etc. (Currently, a bug is causing the pages to appear in the wrong order, please download to view). 
+4. [Report](https://github.com/shah-meet0/steiner_tree_approx/blob/3f3cb255c3ccd2393a50b434029d36b398132eb9/Report.pdf): Report which details implementation, approximation guarantee, runtime, etc. 
     
